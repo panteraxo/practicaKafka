@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.prestamo</groupId>
-	<artifactId>DAWII-202405-Semana01b</artifactId>
+	<artifactId>DAWI-202405-Semana02-Productor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DAWII-202405-Semana01b</name>
+	<name>DAWI-202405-Semana02-Productor</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
