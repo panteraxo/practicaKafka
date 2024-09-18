@@ -19,7 +19,7 @@ public class PaisEventsService {
 	@Autowired
 	private KafkaTemplate<String, Event<?>> producer;
 	
-	@Value("${topic.customer.name:topic-correo}")
+	@Value("${topic.customer.name:topic-pais}")
 	private String topicCustomer;
 	
 	public void publish(Pais pais) {
